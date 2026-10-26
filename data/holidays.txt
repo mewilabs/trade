@@ -1,0 +1,2 @@
+# Add NSE holidays, one ISO date per line, e.g.
+# 2026-01-26  # Republic Day
