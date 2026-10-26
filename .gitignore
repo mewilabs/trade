@@ -1,0 +1,5 @@
+out/
+.env
+__pycache__/
+*.pyc
+data/nifty500.csv
