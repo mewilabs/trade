@@ -1,0 +1,11 @@
+[
+  "tests/test_core.py::test_demo_pipeline_end_to_end",
+  "tests/test_core.py::test_gap_up_fills_at_open",
+  "tests/test_core.py::test_long_stop_hit_and_same_candle_is_conservative",
+  "tests/test_core.py::test_long_target_hit",
+  "tests/test_core.py::test_not_triggered_and_intraday_squareoff",
+  "tests/test_core.py::test_rsi_atr_sane",
+  "tests/test_core.py::test_short_side",
+  "tests/test_core.py::test_short_term_waits_then_fills_and_expires",
+  "tests/test_core.py::test_validate"
+]
